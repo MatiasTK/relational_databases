@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 1c8e836d16362f85e5c951e3ee96c2e0b62a57f2 Matias Vallejos <matiavallejo@gmail.com> 1722463238 +0000	commit (initial): Initial commit
+1c8e836d16362f85e5c951e3ee96c2e0b62a57f2 0d9e26a4331653ac52f4ba9185d2716b2237f579 Matias Vallejos <matiavallejo@gmail.com> 1722465268 +0000	commit: feat: check atomic number
+0d9e26a4331653ac52f4ba9185d2716b2237f579 1b8277f3c2e69e8af69385ca55770d06ab5f1987 Matias Vallejos <matiavallejo@gmail.com> 1722465609 +0000	commit: feat: 3 ways of getting info
+1b8277f3c2e69e8af69385ca55770d06ab5f1987 fe5bdd4c9b89a12a6b361e1a6f052baff1ab1c67 Matias Vallejos <matiavallejo@gmail.com> 1722465824 +0000	commit: fix: symbol search
+fe5bdd4c9b89a12a6b361e1a6f052baff1ab1c67 2e86a1d75763886a4a167cf6908a61812b5bd3ca Matias Vallejos <matiavallejo@gmail.com> 1722466314 +0000	commit: feat: fully working script
+2e86a1d75763886a4a167cf6908a61812b5bd3ca b868e4cc1fddd76fc9c9db345021c4dfb2e4f158 Matias Vallejos <matiavallejo@gmail.com> 1722468949 +0000	commit: refactor: query using function
