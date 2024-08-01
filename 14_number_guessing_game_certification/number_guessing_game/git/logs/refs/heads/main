@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 bec3f5516fd788548447a82d4b14bd19e01a0aa6 Matias Vallejos <matiavallejo@gmail.com> 1722472350 +0000	commit (initial): Initial commit
+bec3f5516fd788548447a82d4b14bd19e01a0aa6 28aa5d3e70aa8a1e94516ce3fa6fb419c331c16a Matias Vallejos <matiavallejo@gmail.com> 1722475683 +0000	commit: feat: finished script
+28aa5d3e70aa8a1e94516ce3fa6fb419c331c16a 00ebe999a483a05e962541e37a45ea1fdd33f851 Matias Vallejos <matiavallejo@gmail.com> 1722476139 +0000	commit: fix: best game not changing
+00ebe999a483a05e962541e37a45ea1fdd33f851 9f9becf645111dcc5f5ca7b00baecfd62e062c9a Matias Vallejos <matiavallejo@gmail.com> 1722480357 +0000	commit: fix: tests
+9f9becf645111dcc5f5ca7b00baecfd62e062c9a d6477ed8cab01e3e56d4939a67df1cb801054ab5 Matias Vallejos <matiavallejo@gmail.com> 1722480565 +0000	commit: refactor: comments
